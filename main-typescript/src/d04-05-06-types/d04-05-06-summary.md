@@ -1,4 +1,4 @@
-## Day 04 Summary
+## Day 04, 05 & 06 Summary
 
 ### Primitive Types
 In TypeScript, we can assign more than one types in a variable. For example:
